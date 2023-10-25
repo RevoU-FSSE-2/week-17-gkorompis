@@ -1,7 +1,7 @@
 # [WEEK 17](http://week17.app.s3-website.ap-southeast-3.amazonaws.com/)
 
 ## 1. Project Overview
-This is a [simple Node.js API application](https://0urmd9fnye.execute-api.ap-southeast-3.amazonaws.com/dev/) that demonstrates the following deliverables:
+This is a simple Node.js API application that demonstrates the following deliverables:
 
 - Functional login and logout session by implementing request cookies
 
