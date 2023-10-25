@@ -5,3 +5,4 @@ server/clientX
 server/tests
 client/node_modules
 build
+.DS_Store
