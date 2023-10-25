@@ -1,0 +1,6 @@
+.banner {
+    height: 40vh;
+    width: 100vw;
+    background-color: rgb(76, 76, 75);
+    background-image: url("../../../public/2.png");
+}

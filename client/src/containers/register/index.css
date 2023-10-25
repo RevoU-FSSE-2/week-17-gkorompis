@@ -1,0 +1,20 @@
+
+.register-main{
+    height: 100vh;
+    /* background-image: url(../../../public/square2.png); */
+}
+.register-form{
+    display: flex;
+    height: inherit;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ant-form-item {
+    margin-bottom: 0px;
+}
+.register-button {
+    display: flex;
+    justify-content: end;
+    margin-top: 15px;
+}

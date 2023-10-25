@@ -1,0 +1,7 @@
+server/node_modules/
+server/.env
+server/deploy.zip
+server/clientX
+server/tests
+client/node_modules
+build

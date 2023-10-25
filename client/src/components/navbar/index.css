@@ -1,0 +1,45 @@
+/* Navbar styles */
+
+nav {
+    overflow: hidden;
+}
+nav a {
+    /* float: left; */
+    color: var(--font-color-all);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    cursor: pointer;
+}
+nav a:hover {
+    background-color: var(--bg-color);
+    color: rgba(59, 55, 55, 0.771);
+    transition: all 1s ease;
+}
+nav p {
+    display: none;
+}
+
+.hide {
+    opacity: 0;
+    height: 0px;
+}
+.burger {
+    display: none;
+}
+.navbar {
+    display: flex;
+    /* background-color: aqua; */
+    flex-direction: row;
+    height: 7vh;
+    justify-content: space-between;
+}
+.navbar-div {
+    display: flex;
+    align-items: center;
+}
+.logout {
+    /* align-self: end; */
+    font-size: 13px;
+}

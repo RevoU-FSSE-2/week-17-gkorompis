@@ -1,0 +1,28 @@
+.login-picture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: 5s;
+    margin: 10px;
+}
+
+.login-picture>* {
+    margin: 5px;
+}
+
+.app-logo {
+    height: 39vh;
+    pointer-events: none;
+    border-radius: 50%;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
